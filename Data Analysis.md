@@ -1,10 +1,10 @@
 ## Excel Data Analysis Project
 
-- Overview
+- [Overview](# Overview)
 - Building Data Pipeline
 - Defining KPIs
 - Developing Dashboard
-- Credits
+- [Credits] (# Credits)
 
 ### Overview
 
