@@ -1,21 +1,21 @@
 ## Excel Data Analysis Project
 
 - [Overview](#overview-id)
-- Building Data Pipeline
-- Defining KPIs
-- Developing Dashboard
-- [Credits] (#credits-id)
+- [Building Data Pipeline](#pipeline-id)
+- [Defining KPIs](#kpi-id)
+- [Developing Dashboard](#dashboard-id)
+- [Credits](#credits-id)
 
 ### Overview {#overview-id}
 
 
-### Building Data Pipeline
+### Building Data Pipeline {#pipeline-id}
 
 
-### Defining KPIs
+### Defining KPIs {#kip-id}
 
 
-### Developing Dashboard
+### Developing Dashboard {#dashboard-id}
 
 
 ### Credits {#credits-id}
