@@ -29,7 +29,7 @@ To make the data more manageable I did these steps:
 
 
 ### Dashboard
-
+![Dashboard](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Dashboard.PNG)
 
 
 ### Link
