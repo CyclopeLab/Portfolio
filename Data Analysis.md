@@ -8,7 +8,7 @@
 
 ### Overview
 Acme Inc is a fictional global retailer of anvils with two years of sample sales data.
-In this project, I used the dataset to create an executive-level report to present in a sales person meeting. It is to inform and analyze financial statement KPIs to give an overview of the sales in the last few years.
+In this project, I used the dataset to create an executive-level report to present in a sales person meeting. It is to inform and analyze financial statement KPIs to give an overview of the sales in the last few years.  
 
 
 
