@@ -13,7 +13,7 @@ In this project, I used the dataset to create an executive-level report to prese
   
 
 ### Database Model
-For the purpose of this project, I used 4 tables, each relates to the other(s) as illustrated in the Entity Relationship Diagram below. 
+For the purpose of this project, I used 4 tables, each relates to the other(s) as illustrated in the Entity Relationship Diagram (ERD) below. 
 
 ![Table Relationship](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Relationships.PNG)
 
