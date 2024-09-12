@@ -20,17 +20,17 @@ EXT0070122021
 Sheet3
 
 To make the data more manageable I did these steps:
-Copied the original worksheets and hid the originals
-Rename the copies meaningfully:
-- Geo Data
-- Volume Data
-Cleaned up the data and transformed the data ranges into tables:
-- GeoByClient
-- VolumeByClient
-Added columns to the tables
-Created new tables for data manipulation:
-- GeoNames
-- Quaters
+- Copied the original worksheets and hid the originals
+- Rename the copies meaningfully:
+  - Geo Data
+  - Volume Data
+- Cleaned up the data and transformed the data ranges into tables:
+  - GeoByClient
+  - VolumeByClient
+- Added columns to the tables
+- Created new tables for data manipulation:
+  - GeoNames
+  - Quaters
 
 
 
