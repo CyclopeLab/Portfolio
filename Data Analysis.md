@@ -28,10 +28,12 @@ To make the data more manageable I did these steps:
   - Quaters
 
 
-### Developing Dashboard
+### Dashboard
 
 
-### Credits
+
+### Link
+Below is a YouTube link that descripbe the process of this project.
 
 [![App Screenshot](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Excel%20Data%20Analysys_SM.png)](https://github.com/CyclopeLab/Portfolio/blob/main/ACME.md)
 
