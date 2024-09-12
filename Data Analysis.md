@@ -2,7 +2,6 @@
 
 - [Overview](#overview-id)
 - [Database Model](#pipeline-id)
-- [Defining KPIs](#kpi-id)
 - [Developing Dashboard](#dashboard-id)
 - [Credits](#credits-id)
 
@@ -32,11 +31,6 @@ To make the data more manageable I did these steps:
 - Created new tables for data manipulation:
   - GeoNamesVolume
   - Quaters
-
-
-
-
-### Defining KPIs
 
 
 ### Developing Dashboard
