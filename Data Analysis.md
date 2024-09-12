@@ -27,11 +27,11 @@ To make the data more manageable I did these steps:
   - Geo Data
   - Volume Data
 - Cleaned up the data and transformed the data ranges into tables:
-  - GeoByClient
-  - VolumeByClient
+  - ClientGeo
+  - ClientVolume
 - Added columns to the tables
 - Created new tables for data manipulation:
-  - GeoNames
+  - GeoNamesVolume
   - Quaters
 
 
