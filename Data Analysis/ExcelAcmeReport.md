@@ -8,7 +8,7 @@ In this project, I used the dataset to create an executive-level report to prese
 ### Database Model
 For the purpose of this project, I used 4 tables, each relates to the other(s) as illustrated in the Entity Relationship Diagram (ERD) below. 
 
-![Table Relationship](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Relationships.PNG)
+![Table Relationship](https://github.com/CyclopeLab/Portfolio/blob/main/Data%20Analysis/Images/Relationships.PNG)
 
 In the original request, there was two excel worksheets:
 EXT0070122021
@@ -29,10 +29,10 @@ To make the data more manageable I did these steps:
 
 
 ### Dashboard
-![Dashboard](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Dashboard.PNG)
+![Dashboard](https://github.com/CyclopeLab/Portfolio/blob/main/Data%20Analysis/Images/Dashboard.PNG)
 
 
 ### Link
 Below is a YouTube link that descripbe the process of this project.
 
-[![App Screenshot](https://github.com/CyclopeLab/Portfolio/blob/main/Images/Excel%20Data%20Analysys_SM.png)](https://www.youtube.com/watch?v=bP58URGxAHA&t=139s)
+[![App Screenshot](https://github.com/CyclopeLab/Portfolio/blob/main/Data%20Analysis/Images/Excel%20Data%20Analysys_SM.png)](https://www.youtube.com/watch?v=bP58URGxAHA&t=139s)
