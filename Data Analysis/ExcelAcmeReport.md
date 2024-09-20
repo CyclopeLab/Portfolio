@@ -32,7 +32,7 @@ To make the data more manageable I did these steps:
 ![Dashboard](https://github.com/CyclopeLab/Portfolio/blob/main/Data%20Analysis/Images/Dashboard.PNG)
 
 
-### Link
+### YouTube
 Below is a YouTube link that descripbe the process of this project.
 
 [![App Screenshot](https://github.com/CyclopeLab/Portfolio/blob/main/Data%20Analysis/Images/Excel%20Data%20Analysys_SM.png)](https://www.youtube.com/watch?v=bP58URGxAHA&t=139s)
